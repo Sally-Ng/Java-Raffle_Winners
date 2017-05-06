@@ -1,6 +1,6 @@
 ## Raffle Winners
 Language: Java </br>
-Write a class to select random winners from a range of possible winning raffle ticket numbers.
+Wrote a class to select random winners from a range of possible winning raffle ticket numbers.
 
 </br>
 <p align="left">
